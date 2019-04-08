@@ -1,6 +1,6 @@
-# TDD and Python FizzBuzz Kata
+# Health Potion
 
->
+>A Python, an RPG health potion component used to improve the health of a character.
 
 
 ## Dependencies
@@ -29,5 +29,6 @@
 
 ## Sources
 
+- [Udemy: The Python Bible](https://www.udemy.com/the-python-bible/learn/lecture/5445350?start=105#overview)
 - [pytest.org](https://docs.pytest.org)
 - [pytest Docs: Install and Getting Started](https://docs.pytest.org/en/3.0.0/getting-started.html)
