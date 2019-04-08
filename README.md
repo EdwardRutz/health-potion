@@ -1,6 +1,6 @@
 # Health Potion
 
->A Python, an RPG health potion component used to improve the health of a character.
+>A Python, an RPG health potion component used to add health points to a character.
 
 
 ## Dependencies
